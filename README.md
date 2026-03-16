@@ -75,3 +75,12 @@ work together to represent decision processes:
 
 - **decision-trace-platform**  
   Platform architecture for building traceable decision systems.
+
+This repository accompanies a series of articles explaining
+the Decision Trace Model.
+
+Blog:
+https://deus-ex-machina-ism.com
+
+LinkedIn:
+https://www.linkedin.com/in/masao-watanabe/
