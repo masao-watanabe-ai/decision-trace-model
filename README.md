@@ -174,4 +174,6 @@ Blog
 LinkedIn
 [https://www.linkedin.com/in/masao-watanabe/](https://www.linkedin.com/in/masao-watanabe/)
 
+## License
 
+MIT License © 2026 Masao Watanabe
